@@ -1,6 +1,8 @@
+README.md:
+
 ---
 
-# Data Analysis Project For Tanx.fi
+# Data Analysis Project
 
 This repository contains a data analysis project focusing on sales data. The analysis involves calculating customer revenue, monthly revenue, product revenue, and identifying the top customers. The project is containerized with Docker, and includes automated tests to verify the accuracy of the analysis functions.
 
