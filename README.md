@@ -6,6 +6,7 @@ README.md:
 
 This repository contains a data analysis project focusing on sales data. The analysis involves calculating customer revenue, monthly revenue, product revenue, and identifying the top customers. The project is containerized with Docker, and includes automated tests to verify the accuracy of the analysis functions.
 
+
 ## Project Structure
 
 ```plaintext
@@ -124,10 +125,11 @@ To run the analysis without Docker:
 
 ## Contributing
 
-We welcome contributions! Please fork the repository and create a pull request with your changes.
+I welcome contributions! Please fork the repository and create a pull request with your changes.
 
-## License
+##Suggesstions:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+I welcome all Suggestions if had any please mention in Discussions..
+
 
 ---
