@@ -38,7 +38,35 @@ https://youtu.be/lUklLdR5yZY
 - Docker Compose
 
 ### Build and Run the Application
+1. **Create Docker Container Getting started**:
+    ```sh
+    docker run -d -p 80:80 docker/getting-started
 
+    ```
+
+2. **Build the Docker Images**: Here it will save all files to container Images 
+    ```sh
+    docker build -t app .
+    ```
+
+3. **Run the Application**:
+    ```sh
+    docker run --rm app
+    ```
+
+### Run the Tests
+
+1. **Build the Docker Images** (if not already done):
+    ```sh
+    docker build -f Dockerfile.test -t test-image .
+    ```
+
+2. **Run the Tests**:
+    ```sh
+    docker run --name test-container --rm test-image
+    ```
+
+## If Your using Decompose
 1. **Clone the Repository**:
     ```sh
     git clone <repository-url>
