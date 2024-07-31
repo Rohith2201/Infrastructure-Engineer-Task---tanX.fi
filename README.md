@@ -6,7 +6,8 @@ README.md:
 
 This repository contains a data analysis project focusing on sales data. The analysis involves calculating customer revenue, monthly revenue, product revenue, and identifying the top customers. The project is containerized with Docker, and includes automated tests to verify the accuracy of the analysis functions.
 
-
+You can Watch working and Execution of Project Here:
+https://youtu.be/lUklLdR5yZY
 ## Project Structure
 
 ```plaintext
