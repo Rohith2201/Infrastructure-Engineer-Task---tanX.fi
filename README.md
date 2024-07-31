@@ -33,7 +33,7 @@ https://youtu.be/lUklLdR5yZY
 ## Setup and Usage
 
 ### Prerequisites
-
+- venv (to run packages in python<python.exe>)
 - Docker
 - Docker Compose
 
